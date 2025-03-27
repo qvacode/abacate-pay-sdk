@@ -1,0 +1,31 @@
+{
+    "name": "abacate-pay-sdk",
+    "version": "1.0.0",
+    "description": "SDK de Node.js en TypeScript para integrar la solución de pagos AbacatePay, facilitando la gestión de transacciones y pagos en aplicaciones Node.js.",
+    "main": "src",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/index.js",
+        "test": "jest --coverage",
+        "test:watch": "jest --watch"
+    },
+    "keywords": [
+        "pay",
+        "sdk",
+        "pix",
+        "abacatepay",
+        "nodejs",
+        "opensource"
+    ],
+    "author": "qvacode",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^29.5.14",
+        "jest": "^29.7.0",
+        "ts-jest": "^29.3.0"
+    },
+    "dependencies": {
+        "axios": "^1.8.4",
+        "dotenv": "^16.4.7"
+    }
+}
