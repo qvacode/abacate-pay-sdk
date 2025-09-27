@@ -1,6 +1,6 @@
 {
     "name": "abacate-pay-sdk",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "SDK de Node.js en TypeScript para integrar la solución de pagos AbacatePay, facilitando la gestión de transacciones y pagos en aplicaciones Node.js.",
     "main": "dist/index.js",
     "files": [
