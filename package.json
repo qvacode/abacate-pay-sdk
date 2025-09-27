@@ -22,7 +22,7 @@
         "opensource"
     ],
     "author": "Ernesto <dhernandezt9303@gmail.com>",
-    "license": "ISC",
+    "license": "MIT",
     "devDependencies": {
         "@types/jest": "^29.5.14",
         "jest": "^29.7.0",
