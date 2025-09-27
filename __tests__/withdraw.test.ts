@@ -2,7 +2,7 @@ import 'dotenv/config';
 import { AbacatepaySDK } from '../src';
 import { withdrawMock } from '../src/mock/withdraw';
 
-describe('pix payment methods', () => {
+describe('withdraw methods', () => {
     const token = process.env.TOKEN || 'tu_token';
     const SDK = new AbacatepaySDK(token);
 
