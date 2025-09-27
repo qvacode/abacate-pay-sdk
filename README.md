@@ -3,7 +3,7 @@
   
   # AbacatepaySDK
 
-  ![npm version](https://img.shields.io/badge/npm-v1.1.0-blue?logo=npm)
+  ![npm version](https://img.shields.io/badge/npm-v1.1.1-blue?logo=npm)
   ![coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
   ![license](https://img.shields.io/badge/license-MIT-green)
   ![downloads](https://img.shields.io/badge/downloads-60%2Fmonth-orange)
