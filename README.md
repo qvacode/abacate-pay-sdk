@@ -14,7 +14,7 @@
 ## Installation
 
 ```bash
-npm install abacatepay-sdk
+npm install abacate-pay-sdk
 ```
 
 ## Features
